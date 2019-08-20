@@ -1,2 +1,1 @@
-# datascientist
-Learning programming 
+To learn programming 
